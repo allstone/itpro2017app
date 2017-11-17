@@ -1,0 +1,23 @@
+{
+  "name": "it-akademija-java-tech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antanukas/it-akademija-java-tech.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Antanukas/it-akademija-java-tech/issues"
+  },
+  "homepage": "https://github.com/Antanukas/it-akademija-java-tech#readme",
+  "devDependencies": {
+    "eslint": "^3.5.0",
+    "eslint-plugin-react": "^6.3.0"
+  }
+}
