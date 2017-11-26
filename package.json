@@ -1,5 +1,5 @@
 {
-  "name": "it-akademija-java-tech",
+  "name": "itpro2017app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Antanukas/it-akademija-java-tech.git"
+    "url": "git+https://github.com/allstone/itpro2017app.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Antanukas/it-akademija-java-tech/issues"
+    "url": "https://github.com/allstone/itpro2017app.git/issues"
   },
-  "homepage": "https://github.com/Antanukas/it-akademija-java-tech#readme",
+  "homepage": "https://github.com/allstone/itpro2017app.git#readme",
   "devDependencies": {
     "eslint": "^3.5.0",
     "eslint-plugin-react": "^6.3.0"
